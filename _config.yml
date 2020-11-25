@@ -11,7 +11,7 @@ linkedin_username: jamalmarri
 markdown: kramdown
 highlighter: rouge
 excerpt_separator: <!--more-->
-permalink: /:year/:month/:day/:title/
+permalink: /blog/:year/:month/:day/:title/
 
 # Gem settings
 plugins:
@@ -20,3 +20,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/bundle
+  - README.md
+  - CNAME
