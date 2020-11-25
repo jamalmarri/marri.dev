@@ -6,7 +6,9 @@
     {% include title.html %}
     {% include nav.html %}
     <div id="content-left">
-      <h1>Category: {{page.category}}</h1>
+      <div id="categories">
+        <h2><a href="/blog/categories/{{page.category}}/">#{{page.category}}</a></h2>
+      </div>
       {% assign content = page.content | strip_newlines %}
       {% if content != ""  %}
         {{content}}
