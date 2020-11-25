@@ -1,0 +1,22 @@
+# Website details
+title: Jamal Marri
+owner: Jamal Marri
+email: jamal@marri.dev
+description: marri.dev is a personal website used for blogging, information about me, and hosting my projects.
+language: en
+github_username: jamalmarri
+linkedin_username: jamalmarri
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+permalink: /:year/:month/:day/:title/
+
+# Gem settings
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle
