@@ -15,9 +15,9 @@ currently working towards my Bachelor’s and living in Bellingham, WA. Language
 that I currently have at least some experience with are: Batch, Bash, C, C++,
 Java, HTML, CSS, SQL, and Racket.
 
-![*A picture of me*](assets/images/profile-waterfalls.jpg){:style="width:32%"}
-![*Another picture of me*](assets/images/profile-rocks.jpg){:style="width:32%"}
-![*A picture of me with my girlfriend*](assets/images/profile-couple.jpg){:style="width:32%"}
+![*A picture of me*](assets/images/profile-waterfalls.webp){:style="width:32%"}
+![*Another picture of me*](assets/images/profile-rocks.webp){:style="width:32%"}
+![*A picture of me with my girlfriend*](assets/images/profile-couple.webp){:style="width:32%"}
 
 ### Contact Me
 Email: {{site.email}}<br>
